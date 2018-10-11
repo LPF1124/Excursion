@@ -32,9 +32,21 @@ h3{
 }
 
 .image{
-  image-orientation: center;
+  margin: auto;
+  width: 50%;
 }
 
 .video{
-  video-orientation:center;
+  margin:auto;
+  width: 50%
+}
+
+.phoneicon{
+  margin: auto;
+  width: 5%
+}
+
+.finallink{
+  text-align: center;
+  color: Aquamarine;
 }
